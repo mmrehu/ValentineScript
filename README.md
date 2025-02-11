@@ -40,8 +40,7 @@ You can check out the live demo of the project here: [Live Demo](#)
 ## 🎶 Audio Files
 Make sure you update the `config.php` file with the correct paths to your audio files to ensure the sound effects work correctly.
 
-## 🤝 Contributing
-Contributions, issues, and feature requests are welcome! Feel free to fork the repository and submit a pull request.
+
 
 
 
