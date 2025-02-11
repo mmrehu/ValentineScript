@@ -22,19 +22,19 @@ This is a fun and interactive Valentine’s Day web application that asks a seri
 You can check out the live demo of the project here: [Live Demo](#)
 
 ## 🚀 Installation
-1. Clone the repository:
+1. Clone the repository or download :
    ```sh
    git clone https://github.com/yourusername/valentine-project.git
    ```
-2. Navigate to the project folder:
+2. upload on hosting:
    ```sh
-   cd valentine-project
+   use infintiy web hosting for free
    ```
-3. Set up a local server (XAMPP, WAMP, etc.)
-4. Place the project files in your server’s root directory (e.g., `htdocs` for XAMPP)
+3. extract files
+4. edit config.php 
 5. Run the project in a web browser by accessing:
    ```sh
-   http://localhost/valentine-project
+  your free domain
    ```
 
 ## 🎶 Audio Files
@@ -43,12 +43,11 @@ Make sure you update the `config.php` file with the correct paths to your audio 
 ## 🤝 Contributing
 Contributions, issues, and feature requests are welcome! Feel free to fork the repository and submit a pull request.
 
-## 📜 License
-This project is open-source and available under the [MIT License](LICENSE).
+
 
 ## 🎉 Acknowledgments
 - Inspired by fun, interactive love-themed web applications
-- Special thanks to all contributors and testers
+
 
 ---
 Made with ❤️ by [Rehu Talwar](https://www.instagram.com/_.mmrehu/)
