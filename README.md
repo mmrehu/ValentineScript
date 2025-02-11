@@ -34,7 +34,7 @@ You can check out the live demo of the project here: [Live Demo](#)
 4. edit config.php 
 5. Run the project in a web browser by accessing:
    ```sh
-  your free domain
+   your free domain
    ```
 
 ## 🎶 Audio Files
