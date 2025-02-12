@@ -10,7 +10,7 @@ $O31 = "yes";
 $O32 = "no";
 $A1 = "Your 1st question reject alert here";
 $A2 = "Your 2d question reject alert here";
-$A3 = "Your 3d question reject alert here";
+
 $lst = "final last message here";
 $audioFileno1 = "Your 1st question 1 st option music.mp3";
 $audioFileno2 = "Your 1st question 2nd option music.mp3";
