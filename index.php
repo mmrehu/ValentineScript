@@ -348,12 +348,8 @@ footer a:hover {
                 echo $A2;
             ?>");
         });
-        document.getElementById('noBtn3').addEventListener('click', () => {
-            alert("<?php 
+       
 
-                echo $A3;
-            ?>");
-        });
 
         const yesButtons = document.querySelectorAll('[id^="yesBtn"]');
         yesButtons.forEach(button => {
